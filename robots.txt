@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://setupclaro.com.br/sitemap.xml

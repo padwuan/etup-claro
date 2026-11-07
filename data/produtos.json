@@ -1,0 +1,126 @@
+[
+  {
+    "id": "memoria-ddr4-16",
+    "name": "Kingston Fury Beast 16 GB DDR4 ou Corsair Vengeance 16 GB DDR4",
+    "category": "Memória RAM",
+    "query": "Kingston Fury Beast 16GB DDR4 kit 2x8 Corsair Vengeance 16GB DDR4 kit 2x8",
+    "models": ["kingston fury beast 16gb ddr4", "corsair vengeance 16gb ddr4"],
+    "enabled": true
+  },
+  {
+    "id": "gpu-rx6600",
+    "name": "Radeon RX 6600 8 GB",
+    "category": "Placa de vídeo",
+    "query": "Radeon RX 6600 8GB placa de vídeo",
+    "models": ["rx 6600 8gb"],
+    "enabled": true
+  },
+  {
+    "id": "gabinete-entrada",
+    "name": "Montech X3 Mesh ou Air 100 Lite",
+    "category": "Gabinete",
+    "query": "Montech X3 Mesh gabinete Montech Air 100 Lite gabinete",
+    "models": ["montech x3 mesh", "montech air 100 lite"],
+    "enabled": true
+  },
+  {
+    "id": "teclado-k552",
+    "name": "Redragon Kumara K552 ABNT2",
+    "category": "Teclado",
+    "query": "Redragon Kumara K552 teclado ABNT2",
+    "models": ["redragon kumara k552"],
+    "enabled": true
+  },
+  {
+    "id": "mouse-basico",
+    "name": "Logitech G203 ou Razer Cobra com fio",
+    "category": "Mouse",
+    "query": "Logitech G203 mouse com fio Razer Cobra mouse com fio",
+    "models": ["logitech g203", "razer cobra"],
+    "excluded_phrases": ["razer cobra pro"],
+    "enabled": true
+  },
+  {
+    "id": "memoria-ddr5-32",
+    "name": "Kingston Fury Beast ou Corsair Vengeance 32 GB",
+    "category": "Memória RAM",
+    "query": "Kingston Fury Beast Corsair Vengeance 32GB kit memória",
+    "models": [],
+    "enabled": false,
+    "disabled_reason": "A geração DDR4 ou DDR5 não está definida no cartão; comparar gerações diferentes produziria uma faixa enganosa."
+  },
+  {
+    "id": "gpu-intermediaria",
+    "name": "Radeon RX 7600 8 GB ou GeForce RTX 4060 8 GB",
+    "category": "Placa de vídeo",
+    "query": "Radeon RX 7600 8GB GeForce RTX 4060 8GB placa de vídeo",
+    "models": ["rx 7600 8gb", "rtx 4060 8gb"],
+    "excluded_phrases": ["rx 7600 xt", "rtx 4060 ti"],
+    "enabled": true
+  },
+  {
+    "id": "gabinete-intermediario",
+    "name": "Montech Air 903 Base ou Corsair 3000D Airflow",
+    "category": "Gabinete",
+    "query": "Montech Air 903 Base gabinete Corsair 3000D Airflow",
+    "models": ["montech air 903 base", "corsair 3000d airflow"],
+    "enabled": true
+  },
+  {
+    "id": "teclado-intermediario",
+    "name": "HyperX Alloy Origins Core ou Logitech G413 SE",
+    "category": "Teclado",
+    "query": "HyperX Alloy Origins Core teclado Logitech G413 SE",
+    "models": ["hyperx alloy origins core", "logitech g413 se"],
+    "enabled": true
+  },
+  {
+    "id": "mouse-intermediario",
+    "name": "Logitech G305 Lightspeed ou Razer DeathAdder V2 X",
+    "category": "Mouse",
+    "query": "Logitech G305 Lightspeed Razer DeathAdder V2 X",
+    "models": ["logitech g305", "razer deathadder v2 x"],
+    "enabled": true
+  },
+  {
+    "id": "memoria-ddr5-64",
+    "name": "Corsair Vengeance ou G.Skill Flare X5 64 GB DDR5",
+    "category": "Memória RAM",
+    "query": "Corsair Vengeance 64GB DDR5 kit G.Skill Flare X5 64GB DDR5",
+    "models": ["corsair vengeance 64gb ddr5", "g.skill flare x5 64gb ddr5"],
+    "enabled": true
+  },
+  {
+    "id": "gpu-alta-performance",
+    "name": "GeForce RTX 5070 ou Radeon RX 9070 XT",
+    "category": "Placa de vídeo",
+    "query": "GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo",
+    "models": ["rtx 5070", "rx 9070 xt"],
+    "excluded_phrases": ["rtx 5070 ti", "rx 9070 xtx"],
+    "enabled": true
+  },
+  {
+    "id": "gabinete-premium",
+    "name": "Lian Li Lancool 216 ou Corsair 4000D Airflow",
+    "category": "Gabinete",
+    "query": "Lian Li Lancool 216 gabinete Corsair 4000D Airflow",
+    "models": ["lian li lancool 216", "corsair 4000d airflow"],
+    "enabled": true
+  },
+  {
+    "id": "teclado-premium",
+    "name": "Keychron Q1 Max ou Corsair K70 RGB Pro",
+    "category": "Teclado",
+    "query": "Keychron Q1 Max teclado Corsair K70 RGB Pro",
+    "models": ["keychron q1 max", "corsair k70 rgb pro"],
+    "enabled": true
+  },
+  {
+    "id": "mouse-premium",
+    "name": "Logitech G Pro X Superlight 2 ou Razer Viper V3 Pro",
+    "category": "Mouse",
+    "query": "Logitech G Pro X Superlight 2 Razer Viper V3 Pro",
+    "models": ["logitech g pro x superlight 2", "razer viper v3 pro"],
+    "enabled": true
+  }
+]

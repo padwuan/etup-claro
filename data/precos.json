@@ -1,0 +1,882 @@
+{
+  "updated_at": "2026-11-07T21:02:24Z",
+  "provider": "Google Shopping via SerpApi",
+  "products": [
+    {
+      "id": "memoria-ddr4-16",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "gpu-rx6600",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 6,
+      "store_count": 4,
+      "offers": [
+        {
+          "title": "Computador PC Gamer Nível 50-C / Amd Ryzen 5600 / SSD Personalizável / Placa de Vídeo AMD RX 6600 8GB / Memória RAM 8GB 3200mhz / Fonte Certificada 80",
+          "model": "rx 6600 8gb",
+          "store": "4Gamers",
+          "price": 4979.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Radeon RX 6600 8GB placa de vídeo&prds=productid:5101122921151481817,headlineOfferDocid:5101122921151481817,imageDocid:2544648836163007117,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "PC Gamer BluePC FRAG, Intel i5 14400F, RX 580 8GB ou RX 6600 8GB, 16GB, 512GB, Monitor 23\"- PGBP-FRA",
+          "model": "rx 6600 8gb",
+          "store": "Shopee",
+          "price": 5020.65,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Radeon RX 6600 8GB placa de vídeo&prds=productid:5655600993929682488,headlineOfferDocid:5655600993929682488,imageDocid:2358638188970528276,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "PC Gamer BluePC FRAG, AMD Ryzen 5 8400F, RX 580 8GB/RX 6600 8GB, 16GB, 512GB, Monitor 23\" - PGBP-FRA",
+          "model": "rx 6600 8gb",
+          "store": "Shopee",
+          "price": 5053.26,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Radeon RX 6600 8GB placa de vídeo&prds=catalogid:11140449959593703050,productid:15938784325859358467,headlineOfferDocid:7375668589471215991,imageDocid:2358638188970528276,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "CPU Gamer Ryzen 7 5700X, Placa Mãe A520M,Memória 16GB 3200, SSD NVME 500GB, RX 6600 8GB",
+          "model": "rx 6600 8gb",
+          "store": "shopee.com.br",
+          "price": 6290.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Radeon RX 6600 8GB placa de vídeo&prds=productid:16158966441612795176,headlineOfferDocid:16158966441612795176,imageDocid:14716688989489468267,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "PC Gamer Studiopc Haven, Preto, Ryzen 5 5500, 16gb Ram, SSD 512gb, Placa De Vídeo Rx 6600 8GB, 500w 80 Plus, 3 Fans RGB - 6781416",
+          "model": "rx 6600 8gb",
+          "store": "KaBuM!",
+          "price": 6670.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Radeon RX 6600 8GB placa de vídeo&prds=productid:624793792421986313,headlineOfferDocid:624793792421986313,imageDocid:6088857388048615063,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "PC Gamer Studiopc Haven Wh Completo, Branco, Ryzen 5 5500, 16gb Ram, SSD 512gb, Placa De Vídeo Rx 6600 8GB, 500w 80 Plus, 3 Fans RGB - 6781416",
+          "model": "rx 6600 8gb",
+          "store": "KaBuM!",
+          "price": 7540.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Radeon RX 6600 8GB placa de vídeo&prds=productid:4536667634068289145,headlineOfferDocid:4536667634068289145,imageDocid:6536121225020273985,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "rx 6600 8gb",
+          "offer_count": 6,
+          "store_count": 4,
+          "minimum_price": 4979.99,
+          "maximum_price": 7540.0,
+          "median_price": 5671.63
+        }
+      ],
+      "minimum_price": 4979.99,
+      "maximum_price": 7540.0,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "rx 6600 8gb",
+              "minimum_price": 4979.99,
+              "maximum_price": 7540.0,
+              "median_price": 5671.63,
+              "offer_count": 6,
+              "store_count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gabinete-entrada",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "teclado-k552",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "mouse-basico",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 27,
+      "store_count": 10,
+      "offers": [
+        {
+          "title": "Rato de jogos com fio Logitech G203, retroiluminação RGB, 8000 DPI, velocidade ajustável, plug and",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 60.55,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:10146389089977884962,headlineOfferDocid:10146389089977884962,imageDocid:12257878685924700,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Prodigy RGB com Fio, 8000 DPI, 6 Botões, Memória Integrada, Polling de",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 72.17,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:4858848995719534402,headlineOfferDocid:4858848995719534402,imageDocid:1707443359029442697,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse gamer com fio Logitech G203, simples e pronto para uso, com retroiluminação RGB vibrante,",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 103.81,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:5994620603769201168,headlineOfferDocid:5994620603769201168,imageDocid:11356874333808672574,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse com Fio Logitech G203 para Jogos, 200-8000 DPI, LIGHTSYNC RGB, 6 Botões, Resposta de 1ms, Cabo",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 104.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:6780048789393117764,headlineOfferDocid:6780048789393117764,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse com Fio Logitech G203 para Jogos, 200-8000 DPI, LIGHTSYNC RGB, 6 Botões, Resposta de 1ms, Cabo",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 104.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:3260796472671192952,headlineOfferDocid:3260796472671192952,imageDocid:11356874333808672574,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "** OPENBOX ** Mouse Gamer Logitech G203 RGB Lightsync 8000 DPI Branco - 910-005794",
+          "model": "logitech g203",
+          "store": "ProGaming Computer",
+          "price": 109.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:12870137282406593163,headlineOfferDocid:12870137282406593163,imageDocid:15173890136324526042,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Lightsync RGB",
+          "model": "logitech g203",
+          "store": "Amazon.com.br - Retail",
+          "price": 113.63,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=catalogid:1929969862908881951,productid:9881922406364238072,headlineOfferDocid:15965249699150294635,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,gpcid:14729263547319577488,mid:576462737167817024,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Lightsync RGB",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 125.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=catalogid:1929969862908881951,productid:9881922406364238072,headlineOfferDocid:15957899092947908530,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,gpcid:14729263547319577488,mid:576462737167817024,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 RGB Lightsync, 6 Botoes, 8000 DPI, Branco - 910-005794",
+          "model": "logitech g203",
+          "store": "Online Shopping",
+          "price": 129.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:16006570062609299900,headlineOfferDocid:16006570062609299900,imageDocid:8109904683966077992,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 com Fio RGB, 8000 DPI, 6 Botões, Memória Interna, Resposta de 1ms, Cabo de",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 141.59,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:15282870923957657976,headlineOfferDocid:15282870923957657976,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer com Fio Logitech G203, Retroiluminação RGB, 8000 DPI Ajustável, 6 Botões, Resposta de",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 143.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:14287601326682682214,headlineOfferDocid:14287601326682682214,imageDocid:11356874333808672574,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 8000 DPI LIGHTSYNC RGB 16,8M Cores 6 Teclas 85g Garantia de 2 Anos Mac PC",
+          "model": "logitech g203",
+          "store": "AliExpress",
+          "price": 144.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:6555155876140952642,headlineOfferDocid:6555155876140952642,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Lightsync RGB",
+          "model": "logitech g203",
+          "store": "mercadolivre.com.br",
+          "price": 148.4,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=catalogid:1929969862908881951,productid:9881922406364238072,headlineOfferDocid:9649238481789588953,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,gpcid:14729263547319577488,mid:576462737167817024,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Rgb Lightsync Branco - 910-005794",
+          "model": "logitech g203",
+          "store": "mercadolivre.com.br",
+          "price": 151.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:3989737129761515386,headlineOfferDocid:3989737129761515386,imageDocid:16588411305675106538,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "MOUSE GAMER LOGITECH G203 LIGHTSYNC RGB 8000DPI BRANCO",
+          "model": "logitech g203",
+          "store": "24 Info",
+          "price": 164.68,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:8851995348510266539,headlineOfferDocid:8851995348510266539,imageDocid:2121230536137783280,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Logitech G203 Gamer Rgb 6 Botões 8000 Dpi Branco",
+          "model": "logitech g203",
+          "store": "Shopee",
+          "price": 170.05,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:7372026100623618351,headlineOfferDocid:7372026100623618351,imageDocid:2796869381131348409,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Logitech G203 Gamer Rgb 6 Botões 8000 Dpi Branco",
+          "model": "logitech g203",
+          "store": "Shopee",
+          "price": 170.05,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:2715238247900478116,headlineOfferDocid:2715238247900478116,imageDocid:2796869381131348409,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Rgb Lightsync Branco - 910-005794",
+          "model": "logitech g203",
+          "store": "mercadolivre.com.br",
+          "price": 170.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:57203705516844739,headlineOfferDocid:57203705516844739,imageDocid:4723640518378752089,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Lightsync RGB",
+          "model": "logitech g203",
+          "store": "mercadolivre.com.br",
+          "price": 177.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=catalogid:1929969862908881951,productid:9881922406364238072,headlineOfferDocid:13877781616562392932,imageDocid:11356874333808672574,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,gpcid:14729263547319577488,mid:576462737167817024,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Rato Gaming LOGITECH G203",
+          "model": "logitech g203",
+          "store": "Clickfiel Informática",
+          "price": 183.5,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=catalogid:12370600856419248586,productid:14432000395605228452,headlineOfferDocid:12422818998466327760,imageDocid:8039909465690843768,rds:PC_16394352447249743453|PROD_PC_16394352447249743453,gpcid:16394352447249743453,mid:576462912382194704,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203, LIGHTSYNC, Branco - 910-005794",
+          "model": "logitech g203",
+          "store": "Shopee",
+          "price": 206.86,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:1938904274792109856,headlineOfferDocid:1938904274792109856,imageDocid:12112649719094456595,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Lightsync 910-005795/5792 Rgb",
+          "model": "logitech g203",
+          "store": "mercadolivre.com.br",
+          "price": 219.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:16056960368551489063,headlineOfferDocid:16056960368551489063,imageDocid:4616229838757425720,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 Lightsync RGB 8000Dpi Branco 910-0",
+          "model": "logitech g203",
+          "store": "Shopee",
+          "price": 236.55,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:7207459631054307138,headlineOfferDocid:7207459631054307138,imageDocid:609627325279211098,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Logitech G203 Lightsync Gaming White",
+          "model": "logitech g203",
+          "store": "Mercado Livre",
+          "price": 256.9,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:12391816703132077692,headlineOfferDocid:12391816703132077692,imageDocid:12217092321814123079,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Logitech G203 Prodigy Wired Gaming Mouse",
+          "model": "logitech g203",
+          "store": "Desertcart.ae",
+          "price": 340.26,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:5934664438599898236,headlineOfferDocid:5934664438599898236,imageDocid:3853178750301098033,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G203 RGB Lightsync, 6 Botões, 8000 DPI, Branco - 910-005794",
+          "model": "logitech g203",
+          "store": "Shopee",
+          "price": 368.6,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:7860540603485697466,headlineOfferDocid:7860540603485697466,imageDocid:3816084772258705724,rds:PC_14729263547319577488|PROD_PC_14729263547319577488,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Para Jogos Logitech G203 Prodigy Com Fio 8.000 Dpi Rgb",
+          "model": "logitech g203",
+          "store": "Mercado Livre",
+          "price": 422.69,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G203 mouse com fio Razer Cobra mouse com fio&prds=productid:11516368498810627326,headlineOfferDocid:11516368498810627326,imageDocid:8246159914399243863,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "logitech g203",
+          "offer_count": 27,
+          "store_count": 10,
+          "minimum_price": 60.55,
+          "maximum_price": 422.69,
+          "median_price": 151.99
+        }
+      ],
+      "minimum_price": 60.55,
+      "maximum_price": 422.69,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "logitech g203",
+              "minimum_price": 60.55,
+              "maximum_price": 422.69,
+              "median_price": 151.99,
+              "offer_count": 27,
+              "store_count": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "memoria-ddr5-32",
+      "status": "skipped",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "reason": "A geração DDR4 ou DDR5 não está definida no cartão; comparar gerações diferentes produziria uma faixa enganosa.",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "gpu-intermediaria",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "gabinete-intermediario",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "teclado-intermediario",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "mouse-intermediario",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 8,
+      "store_count": 3,
+      "offers": [
+        {
+          "title": "Mouse Sem Fio Logitech G305 LIGHTSPEED, 12000 DPI HERO, 6 Teclas Programáveis, Bateria de 250h, 99g",
+          "model": "logitech g305",
+          "store": "AliExpress",
+          "price": 70.49,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=productid:14345515284241149703,headlineOfferDocid:14345515284241149703,imageDocid:11929749048437067678,rds:PC_9474207837638977236|PROD_PC_9474207837638977236,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Sem Fio Logitech G305, 12000 DPI HERO, 6 Botões Programáveis, Bateria de 250 Horas, 99g,",
+          "model": "logitech g305",
+          "store": "AliExpress",
+          "price": 75.3,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=productid:11456534172696819874,headlineOfferDocid:11456534172696819874,imageDocid:6377926256942254072,rds:PC_12586976264663916353|PROD_PC_12586976264663916353,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Logitech G305 LIGHTSPEED Ergonomic Gaming Wireless Mice 1ms Ultra‐Low Latency Stable 2.4G For",
+          "model": "logitech g305",
+          "store": "AliExpress",
+          "price": 113.09,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=productid:12287923935822725789,headlineOfferDocid:12287923935822725789,imageDocid:14537382114807892071,rds:PC_9474207837638977236|PROD_PC_9474207837638977236,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G305 Lightspeed Sem Fio",
+          "model": "logitech g305",
+          "store": "Amazon.com.br - Retail",
+          "price": 179.9,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=catalogid:9448949379549706541,productid:5701476005652426273,headlineOfferDocid:1878439477114618260,imageDocid:14173166383301860750,rds:PC_1456627992602173620|PROD_PC_1456627992602173620,gpcid:1456627992602173620,mid:576462913454148529,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G305 Sem Fio Lightspeed",
+          "model": "logitech g305",
+          "store": "Amazon.com.br - Retail",
+          "price": 199.98,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=catalogid:8631906077391359048,productid:10285573814086098634,headlineOfferDocid:3678948470480665127,imageDocid:5839951124622572738,rds:PC_9474207837638977236|PROD_PC_9474207837638977236,gpcid:9474207837638977236,mid:576462852750926848,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Logitech G305 LIGHTSPEED Mice With Transfer Adapter Cable Wireless Gaming Mouse Adjustable DPI For",
+          "model": "logitech g305",
+          "store": "AliExpress",
+          "price": 228.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=productid:1072565060458724567,headlineOfferDocid:1072565060458724567,imageDocid:13968099139436214649,rds:PC_15653327925203216736|PROD_PC_15653327925203216736,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G305 Preto",
+          "model": "logitech g305",
+          "store": "Efetiva Informática",
+          "price": 316.47,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=productid:4345027078687456997,headlineOfferDocid:4345027078687456997,imageDocid:14689352425087774057,rds:PC_1456627992602173620|PROD_PC_1456627992602173620,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Sem Fio Logitech G305 X SUPERLIGHT LIGHTSPEED",
+          "model": "logitech g305",
+          "store": "Amazon.com.br - Retail",
+          "price": 382.42,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G305 Lightspeed Razer DeathAdder V2 X&prds=catalogid:2283378773101178621,productid:16292868391766039390,headlineOfferDocid:12122959227313997777,imageDocid:11131810087537604136,rds:PC_3904944429045740708|PROD_PC_3904944429045740708,gpcid:2739630850783732104,mid:576462915996168244,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "logitech g305",
+          "offer_count": 8,
+          "store_count": 3,
+          "minimum_price": 70.49,
+          "maximum_price": 382.42,
+          "median_price": 189.94
+        }
+      ],
+      "minimum_price": 70.49,
+      "maximum_price": 382.42,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "logitech g305",
+              "minimum_price": 70.49,
+              "maximum_price": 382.42,
+              "median_price": 189.94,
+              "offer_count": 8,
+              "store_count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "memoria-ddr5-64",
+      "status": "insufficient_data",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 0,
+      "store_count": 0,
+      "offers": [],
+      "models": [],
+      "history": []
+    },
+    {
+      "id": "gpu-alta-performance",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 18,
+      "store_count": 10,
+      "offers": [
+        {
+          "title": "Zotac Placa Gráfica Rtx 5070 Twin Edge 12gb Gddr7",
+          "model": "rtx 5070",
+          "store": "Electrika Computers",
+          "price": 4231.88,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:3393769971360774217,productid:2534018828021794659,headlineOfferDocid:872214286233271040,imageDocid:18133886674249562304,rds:PC_11374768457627775078|PROD_PC_11374768457627775078,gpcid:11374768457627775078,mid:576462537173289454,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo PowerColor Reaper AMD Radeon RX 9070 XT 16gb GDDR6",
+          "model": "rx 9070 xt",
+          "store": "Nissei",
+          "price": 4893.85,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:146697367268643097,productid:14558780036333510857,headlineOfferDocid:10863852602560233496,imageDocid:9048728664929907197,rds:PC_17590944446972749560|PROD_PC_17590944446972749560,gpcid:17590944446972749560,mid:576462826309496565,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo NVIDIA GeForce Palit RTX 5070 Infinity 3 12GB",
+          "model": "rtx 5070",
+          "store": "Pichau",
+          "price": 5499.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:5577545295695492432,productid:13750420218453467591,headlineOfferDocid:17562569971913039262,imageDocid:13307323623414523451,rds:PC_11808821878148509432|PROD_PC_11808821878148509432,gpcid:11808821878148509432,mid:576462839714521542,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Zotac Gaming Geforce RTX 5070 12GB 192 Bits GDDR7 Twin Edge OC",
+          "model": "rtx 5070",
+          "store": "KaBuM!",
+          "price": 5670.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:5074808094488329962,productid:12172763822054459162,headlineOfferDocid:446311641296374749,imageDocid:11004497238787735796,rds:PC_9363489167155018221|PROD_PC_9363489167155018221,gpcid:1092158891307128161,mid:576462896485447850,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Zotac Gaming Geforce RTX 5070 Solid OC 12GB GDDR7",
+          "model": "rtx 5070",
+          "store": "KaBuM!",
+          "price": 5799.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:15346489497151322857,productid:3183540982020484002,headlineOfferDocid:7561977142055356762,imageDocid:13729226907791176408,rds:PC_3366227882866168211|PROD_PC_3366227882866168211,gpcid:3366227882866168211,mid:576462815248492299,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo XFX Swift AMD Radeon RX 9070 XT White Triple Fan Gaming Edition",
+          "model": "rx 9070 xt",
+          "store": "Pichau",
+          "price": 5859.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:14602822055231447677,productid:16131417312540286648,headlineOfferDocid:7431871373985132868,imageDocid:11581362514580533110,rds:PC_9107637326363250396|PROD_PC_9107637326363250396,gpcid:9107637326363250396,mid:576462826698051746,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Sapphire Pulse Radeon RX 9070 XT Gaming DUAL 16GB GDDR6",
+          "model": "rx 9070 xt",
+          "store": "Pichau",
+          "price": 5999.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:5137535860302200046,productid:10282611190224372294,headlineOfferDocid:5204340827185282592,imageDocid:14319756822356029264,rds:PC_13575291633897950836|PROD_PC_13575291633897950836,gpcid:13575291633897950836,mid:576462518106881751,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Gigabyte NVIDIA GeForce RTX 5070 Windforce OC SFF 12GB GDDR7",
+          "model": "rtx 5070",
+          "store": "KaBuM!",
+          "price": 6079.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:9816963033653300995,productid:10946870681455149245,headlineOfferDocid:9189313562531433324,imageDocid:822442791556776678,rds:PC_10312002874410644788|PROD_PC_10312002874410644788,gpcid:10312002874410644788,mid:576462820102898111,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Gigabyte GeForce RTX 5070 Gaming OC 12GB GDDR7 192 Bits",
+          "model": "rtx 5070",
+          "store": "Pichau",
+          "price": 6199.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:4901039047127156734,productid:17273993189017404234,headlineOfferDocid:10046347250387631691,imageDocid:15443470947967261501,rds:PC_1194924774943401029|PROD_PC_1194924774943401029,gpcid:1194924774943401029,mid:576462511287618137,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Gigabyte Radeon RX 9070 XT Gaming OC ICE",
+          "model": "rx 9070 xt",
+          "store": "Pichau",
+          "price": 6359.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:12035849735170517400,productid:1189389055125790038,headlineOfferDocid:16187410192133511126,imageDocid:6274884322304854442,rds:PC_10066251328005486057|PROD_PC_10066251328005486057,gpcid:10066251328005486057,mid:576462563936339286,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo XFX Mercury AMD Radeon RX 9070 XT OC RGB",
+          "model": "rx 9070 xt",
+          "store": "Pichau",
+          "price": 6799.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:6108685339713549437,productid:13764253440569270975,headlineOfferDocid:9725994364272422596,imageDocid:1351466574172359568,rds:PC_14260819464400179654|PROD_PC_14260819464400179654,gpcid:14260819464400179654,mid:576462886068893213,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Gigabyte Radeon RX 9070 XT Gaming",
+          "model": "rx 9070 xt",
+          "store": "Amazon.com.br - Seller",
+          "price": 6821.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:1667522163126672817,productid:14006107622792403353,headlineOfferDocid:16509156273394881810,imageDocid:7314784409108087357,rds:PC_9360579745360260793|PROD_PC_9360579745360260793,gpcid:9360579745360260793,mid:576462567124481124,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Asrock RX 9070 XT Steel Legend Dark – 16GB GDDR6",
+          "model": "rx 9070 xt",
+          "store": "Amazon.com.br - Seller",
+          "price": 6821.0,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:5394718356701383563,productid:12261916076728243090,headlineOfferDocid:9883241444684214940,imageDocid:1309551381090110913,rds:PC_2897952424714805839|PROD_PC_2897952424714805839,gpcid:2897952424714805839,mid:576462878791226156,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Video 12gb Rtx 5070 Ultra Colorful Oc",
+          "model": "rtx 5070",
+          "store": "Terabyteshop",
+          "price": 6999.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:7348455043962582477,productid:4914182630965050409,headlineOfferDocid:12895776662274592527,imageDocid:13803139574993229144,rds:PC_3673930369351538705|PROD_PC_3673930369351538705,gpcid:3673930369351538705,mid:576462896463930181,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Lenovo Placa Gráfica Rtx 5070 12gb Gddr7",
+          "model": "rtx 5070",
+          "store": "Techinn.com",
+          "price": 7878.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:17009985697644203180,productid:16085485906829143378,headlineOfferDocid:11353152152339555129,imageDocid:4170596918022061486,gpcid:871969968209284732,mid:576462518665092172,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Placa de Vídeo Asrock RX 9070 XT Taichi OC 16GB GDDR6",
+          "model": "rx 9070 xt",
+          "store": "Amazon.com.br - Retail",
+          "price": 8890.9,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:7606610390575926741,productid:11000821733505892331,headlineOfferDocid:12453506251491542163,imageDocid:1768653124354144937,rds:PC_14127060803008823205|PROD_PC_14127060803008823205,gpcid:14127060803008823205,mid:576462860396328962,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "ASUS RX 9070 XT Placa de Vídeo 16GB GDDR6 para Jogos AAA 4K",
+          "model": "rx 9070 xt",
+          "store": "mimilon.com.br",
+          "price": 8903.75,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=productid:9948781259207842037,headlineOfferDocid:9948781259207842037,imageDocid:15523928795913592668,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 9070 XT GAMING OC 16GB PhantomLink Graphics Board 11348-08-20G VD9390",
+          "model": "rx 9070 xt",
+          "store": "Electronica Barata",
+          "price": 9368.89,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=GeForce RTX 5070 Radeon RX 9070 XT placa de vídeo&prds=catalogid:18153814644778789271,productid:957826185049902775,headlineOfferDocid:1160294475510402719,imageDocid:18004507279003353501,gpcid:2542825542824487241,mid:576462913321400249,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "rtx 5070",
+          "offer_count": 8,
+          "store_count": 5,
+          "minimum_price": 4231.88,
+          "maximum_price": 7878.99,
+          "median_price": 5939.99
+        },
+        {
+          "model": "rx 9070 xt",
+          "offer_count": 10,
+          "store_count": 6,
+          "minimum_price": 4893.85,
+          "maximum_price": 9368.89,
+          "median_price": 6810.49
+        }
+      ],
+      "minimum_price": 4231.88,
+      "maximum_price": 9368.89,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "rtx 5070",
+              "minimum_price": 4231.88,
+              "maximum_price": 7878.99,
+              "median_price": 5939.99,
+              "offer_count": 8,
+              "store_count": 5
+            },
+            {
+              "model": "rx 9070 xt",
+              "minimum_price": 4893.85,
+              "maximum_price": 9368.89,
+              "median_price": 6810.49,
+              "offer_count": 10,
+              "store_count": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gabinete-premium",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 4,
+      "store_count": 3,
+      "offers": [
+        {
+          "title": "Gabinete Gamer Lian Li Lancool 216 Airflow ATX / 2 Cooler / RGB - Branco",
+          "model": "lian li lancool 216",
+          "store": "Shopee",
+          "price": 1048.8,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Lian Li Lancool 216 gabinete Corsair 4000D Airflow&prds=productid:1440005452984491799,headlineOfferDocid:1440005452984491799,imageDocid:4390379478351272325,rds:PC_7925066795044786561|PROD_PC_7925066795044786561,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Gabinete Lian Li Lancool 216RX RGB",
+          "model": "lian li lancool 216",
+          "store": "Desertcart.ae",
+          "price": 1557.41,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Lian Li Lancool 216 gabinete Corsair 4000D Airflow&prds=catalogid:13870129734411576622,productid:6830033395631991887,headlineOfferDocid:4851473732661932894,imageDocid:9063374708424361490,rds:PC_14137272048889862261|PROD_PC_14137272048889862261,gpcid:14137272048889862261,mid:576462866778275072,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Gabinete Gamer Lian Li Lancool 216 Mid Tower Preto",
+          "model": "lian li lancool 216",
+          "store": "Desertcart.ae",
+          "price": 1647.35,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Lian Li Lancool 216 gabinete Corsair 4000D Airflow&prds=catalogid:11325103407663156861,productid:9938625676925442929,headlineOfferDocid:6036954974760576839,imageDocid:18257231137901308620,rds:PC_4648873036761940556|PROD_PC_4648873036761940556,gpcid:4648873036761940556,mid:576462913297388263,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Lian Li LANCOOL 216 RGB Mid-Tower Case with Micro-ATX",
+          "model": "lian li lancool 216",
+          "store": "desertcart.com.sa",
+          "price": 2261.26,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Lian Li Lancool 216 gabinete Corsair 4000D Airflow&prds=catalogid:5191428795692478676,productid:12767345372273146598,headlineOfferDocid:8364312028649566029,imageDocid:9063374708424361490,rds:PC_9042329528653390094|PROD_PC_9042329528653390094,gpcid:9042329528653390094,mid:576462531552964082,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "lian li lancool 216",
+          "offer_count": 4,
+          "store_count": 3,
+          "minimum_price": 1048.8,
+          "maximum_price": 2261.26,
+          "median_price": 1602.38
+        }
+      ],
+      "minimum_price": 1048.8,
+      "maximum_price": 2261.26,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "lian li lancool 216",
+              "minimum_price": 1048.8,
+              "maximum_price": 2261.26,
+              "median_price": 1602.38,
+              "offer_count": 4,
+              "store_count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teclado-premium",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 3,
+      "store_count": 2,
+      "offers": [
+        {
+          "title": "Teclado Mecânico Keychron Q1 Max - Wireless, RGB, Layout 75% - Branco - Q1M-P3S",
+          "model": "keychron q1 max",
+          "store": "WAZ",
+          "price": 1049.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Keychron Q1 Max teclado Corsair K70 RGB Pro&prds=productid:14822444049132550206,headlineOfferDocid:14822444049132550206,imageDocid:14128721961091932808,rds:PC_2904356798911386358|PROD_PC_2904356798911386358,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Teclado Mecânico Keychron Q1 Max Rgb",
+          "model": "keychron q1 max",
+          "store": "WAZ",
+          "price": 1479.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Keychron Q1 Max teclado Corsair K70 RGB Pro&prds=catalogid:16818924114437921602,productid:15874524201904340984,headlineOfferDocid:14644501399599549471,imageDocid:12082679768652678815,rds:PC_5832596481480012178|PROD_PC_5832596481480012178,gpcid:5832596481480012178,mid:576462851556397347,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Teclado Mecânico Personalizado Keychron Q1 Max Rgb Qmk Via C",
+          "model": "keychron q1 max",
+          "store": "Mercado Livre",
+          "price": 2107.1,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Keychron Q1 Max teclado Corsair K70 RGB Pro&prds=productid:6676227634786585079,headlineOfferDocid:6676227634786585079,imageDocid:11462325862985534498,rds:PC_5832596481480012178|PROD_PC_5832596481480012178,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "keychron q1 max",
+          "offer_count": 3,
+          "store_count": 2,
+          "minimum_price": 1049.99,
+          "maximum_price": 2107.1,
+          "median_price": 1479.99
+        }
+      ],
+      "minimum_price": 1049.99,
+      "maximum_price": 2107.1,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "keychron q1 max",
+              "minimum_price": 1049.99,
+              "maximum_price": 2107.1,
+              "median_price": 1479.99,
+              "offer_count": 3,
+              "store_count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mouse-premium",
+      "status": "verified",
+      "checked_at": "2026-11-07T21:02:24Z",
+      "offer_count": 7,
+      "store_count": 5,
+      "offers": [
+        {
+          "title": "Mouse Gamer Sem Fio Logitech G PRO X SUPERLIGHT 2c SE",
+          "model": "logitech g pro x superlight 2",
+          "store": "Logitech Store",
+          "price": 594.92,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=catalogid:15843946191344683667,productid:8927139811521980817,headlineOfferDocid:14604218962102253081,imageDocid:11011079176918965507,gpcid:6423364712204895370,mid:576462914120716390,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Logitech G Pro X Superlight 2 Sem Fio",
+          "model": "logitech g pro x superlight 2",
+          "store": "Amazon.com.br - Retail",
+          "price": 602.38,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=catalogid:7189472043125496360,productid:938577936759609009,headlineOfferDocid:12693189693859610503,imageDocid:14503313898801722853,rds:PC_12547715675385517054|PROD_PC_12547715675385517054,gpcid:12547715675385517054,mid:576462892633133755,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Sem Fio Razer Viper V3 Pro SE",
+          "model": "razer viper v3 pro",
+          "store": "Magalu",
+          "price": 679.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=catalogid:6245491587271329536,productid:8942996138975790483,headlineOfferDocid:7765882544115188470,imageDocid:9757946820988402588,rds:PC_16588424071942312934|PROD_PC_16588424071942312934,gpcid:16588424071942312934,mid:576462912370822890,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2c",
+          "model": "logitech g pro x superlight 2",
+          "store": "KaBuM!",
+          "price": 684.14,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=catalogid:8618466548178517221,productid:7003671586026473470,headlineOfferDocid:3928045076376499914,imageDocid:2601520571796160002,rds:PC_2708693245971758891|PROD_PC_2708693245971758891,gpcid:17051440168224337485,mid:576462562957719247,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Sem fio Logitech G PRO X SUPERLIGHT 2 DEX Preto",
+          "model": "logitech g pro x superlight 2",
+          "store": "Logitech Store",
+          "price": 899.91,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=catalogid:12174685967187765924,productid:18443566481391277158,headlineOfferDocid:15996292405058469528,imageDocid:12729631086503242093,rds:PC_2127972044662208544|PROD_PC_2127972044662208544,gpcid:1298798353810634915,mid:576462802352796891,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Mouse Gamer Razer Viper V3 Pro USB",
+          "model": "razer viper v3 pro",
+          "store": "KaBuM!",
+          "price": 1099.99,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=catalogid:12765517483352159795,productid:14106030393767782044,headlineOfferDocid:4066899795236922910,imageDocid:13258043775630875816,rds:PC_4301922597798128547|PROD_PC_4301922597798128547,gpcid:4301922597798128547,mid:576462915616372426,pvt:hg&hl=pt-br&gl=br&udm=28"
+        },
+        {
+          "title": "Razer Viper V3 Pro - Counter-Strike 2 Edition | Counter-Strike 2 Edition, 54 g leve, sensor DPI de 35K, interruptores óticos Gen3, 8 controles",
+          "model": "razer viper v3 pro",
+          "store": "Amazon.com.br - Seller",
+          "price": 1316.88,
+          "url": "https://www.google.com.br/search?ibp=oshop&q=Logitech G Pro X Superlight 2 Razer Viper V3 Pro&prds=productid:5466531507618658010,headlineOfferDocid:5466531507618658010,imageDocid:14770014410874975441,rds:PC_17463642080954049714|PROD_PC_17463642080954049714,pvt:hg&hl=pt-br&gl=br&udm=28"
+        }
+      ],
+      "models": [
+        {
+          "model": "logitech g pro x superlight 2",
+          "offer_count": 4,
+          "store_count": 3,
+          "minimum_price": 594.92,
+          "maximum_price": 899.91,
+          "median_price": 643.26
+        },
+        {
+          "model": "razer viper v3 pro",
+          "offer_count": 3,
+          "store_count": 3,
+          "minimum_price": 679.99,
+          "maximum_price": 1316.88,
+          "median_price": 1099.99
+        }
+      ],
+      "minimum_price": 594.92,
+      "maximum_price": 1316.88,
+      "history": [
+        {
+          "date": "2026-11-07",
+          "models": [
+            {
+              "model": "logitech g pro x superlight 2",
+              "minimum_price": 594.92,
+              "maximum_price": 899.91,
+              "median_price": 643.26,
+              "offer_count": 4,
+              "store_count": 3
+            },
+            {
+              "model": "razer viper v3 pro",
+              "minimum_price": 679.99,
+              "maximum_price": 1316.88,
+              "median_price": 1099.99,
+              "offer_count": 3,
+              "store_count": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
